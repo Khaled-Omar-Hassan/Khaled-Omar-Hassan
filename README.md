@@ -114,11 +114,3 @@
 ## 💬 Fun Fact
 
 When I'm not coding, I’m either solving logic puzzles, diving into cloud tech, or helping others learn Python!
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Khaled-Omar-Hassan&theme=github-compact"/>
-</p>
